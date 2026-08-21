@@ -157,6 +157,14 @@ print(y)
 print(z)
 '''
 
+'''
+a=True
+b=False
+print(a)
+print(b)
+print(a+a)
+print(a+b)
+'''
 
 
 
