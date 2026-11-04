@@ -166,5 +166,18 @@ print(a+a)
 print(a+b)
 '''
 
+""" for i in range(5,0,-1):
+    for j in range(0,i):
+        print(i,end="")
+    print() """
 
 
+""" 
+s="thequickbrownfoxjumpsoverthelazydog"
+a=""
+for i in s:
+    a+=i
+    count=s.count(i)
+    if count>1 and a.count(i)==1 :
+        print(f"{i}{count}",end="  ")
+        () """
